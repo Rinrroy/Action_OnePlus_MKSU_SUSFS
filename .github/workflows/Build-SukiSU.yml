@@ -20,7 +20,7 @@ on:
         type: choice
         description: "配置文件"
         required: true
-        default: oneplus_ace2_pro_v
+        default: oneplus_11_v
         options:
           - oneplus_nord_ce4_v
           - oneplus_ace_3v_v
@@ -63,7 +63,7 @@ on:
         type: choice
         description: "内核安卓版本"
         required: true
-        default: android15
+        default: android13
         options:
           - android12
           - android13
